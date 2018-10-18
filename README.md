@@ -1,113 +1,71 @@
-# Primer nivel de encabezado
-## Segundo nivel de encabezado
-### Tercer nivel de encabezado
-#### Cuarto nivel de encabezado
+#ELABORACIÓN DE PROYECTOS SOCIALES
 
-Primer nivel de encabezado
-==========================
+####Casos prácticos
 
-Segundo nivel de encabezado
---------------------------
+*Introducción
+*Elementos para elaborar un proyecto
+  *Diagnóstico
+  *Planificación
+  *Aplicación/Ejecución
+  *Evaluación
+  *Informe final
+  *Reflexión crítica
 
-Observa que la sintaxis de Markdown sigue siendo comprensible aún en la versión de texto plano.
+*Caso prácticos
 
-Párrafos y saltos de línea
-Escribe la siguiente frase en la caja de texto:
+**Introducción**
 
-¡Bienvenidos a *The Programming Historian en español*!
+Es muy importante señalar cuál es la finalidad de las acciones que realizamos con las comunidades con las
+que trabajamos, ya que en ello existe una mejora en cuanto a que el hecho de planificar una determinada
+acción hace que se propicie el cambio y la mejora de esa realidad.  
 
-Añadir énfasis
-El texto se puede poner en cursivas encerrándolo entre los símbolos * o -. De la misma forma, el texto en negritas se escribe encerrando la palabra entre **o __.
+Uno de los grandes problemas de nuestro tiempo es la falta de reflexión, ya que el hombre en la actualidad se
+encuentra devorado por la vorágine del hacer, olvidándose de pensar lo que está haciendo.
 
-Añade énfasis a una frase utilizando estos métodos:
-¡Estoy **muy** entusiasmado con los tutoriales de _The Programming Historian en español_!
+**¿Qué entendemos por proyecto?**
 
-Listados
-Markdown soporta la creación de listas ordenadas y sin ordenar. Escribe la siguiente lista dentro de la caja de texto:
+La elaboración de proyectos sociales nace como consecuencia del deseo de mejorar la realidad en la que
+vivimos.  
 
-Poner sangría al * te permite crear listas anidadas.
+Un proyecto es un avance anticipado de las acciones a realizar para conseguir unos determinados objetivos.  
 
-Lista de compras
----------------
-* Frutas
-  * Manzanas
-  * Naranjas
-  * Uvas
-* Lácteos
-  * Leche
-  * Queso
+El Proyecto es un plan de trabajo que tiene como misión la de prever, orientar y preparar bien el camino de lo
+que se va a hacer.  
 
-  Las listas ordenadas se escriben numerando cada línea. Una vez más, el objetivo de Markdown es producir documentos que sean legibles como texto plano y que a la vez puedan traducirse a otros formatos.
+En todo proyecto es importante resaltar siempre:  
 
-Lista de pendientes
-------------------
-1. Terminar el tutorial de Markdown
-2. Ir a la tienda de abarrotes
-3. Preparar el almuerzo
+  *Una descripción de lo que se quiere conseguir, indicando con precisión la finalidad del mismo.
+  *Una adaptación del proyecto a las características del entorno y a las personas que lo van a llevar a cabo.
+  *Unos datos e informaciones técnicas para el mejor desarrollo del proyecto.
+  *Unos recursos mínimos imprescindibles para su aplicación y una temporalización precisa para el desarrollo del proyecto.  
 
-Fragmentos de código (snippets)
-Representar fragmentos de código en forma distinta al resto del documento es una buena práctica que lo hace más legible. La escritura de código se representa generalmente a espacio sencillo. Dado que Markdown no distingue las tipografías involucradas, representamos los fragmentos de código encerrados entre dos signos de acento grave `. Por ejemplo: `<br/>`. Cuando queremos representar un bloque completo de código lo debemos encerrar entre dos líneas de tres acentos graves. En la ventana de vista previa de StackEdit esto se representará como una caja de texto sombreada y escrita a espacio seguido.
+  Lista de la Planificación pretende:
+  ------------------
+  1. Precisar los resultados a obtener y el papel que en ellos representan los elementos personales y materiales.
+  2. Elaborar las orientaciones y normas de actuación.
+  3. Definir el papel que le corresponde a los diferentes sectores personales implicados.
 
-Escribe lo siguiente en la caja de texto:
+  ##El objetivo del proyectos
 
-Observa cómo el bloque de código se representa a renglón seguido.
+  > El campo de aplicación es muy ámplio. Somos conscientes de que a través de la elaboración de buenos
+proyectos, podremos elevar la calidad y profesionalización de nuestro trabajo, y sobre todo, la calidad de vida
+de las personas a las que va dirigido.
 
-```html
-<html>
-    <head>
-        <title>Título del sitio Web</title>
-    </head>
-    <body>
-    </body>
-</html>
-```
+##Clasificación de los proyectos según el ILPS
 
-Bloque de citas
-Escribe el siguiente texto en la caja de texto:
-
-> Hola. Éste es un párrafo de texto incluido en un bloque de cita. Fíjate que tengo una sangría con respecto al margen izquierdo.
-
-Enlaces de Internet
-Los enlaces de Internet se pueden escribir de dos maneras.
-
-El título del enlace se encierra primero entre corchetes y después se incluye la dirección completa del URL entre paréntesis.
-
-Para más tutoriales visita la página [The Programming Historian en español](/es).
-
-Los enlaces también se utilizan para crear notas a pie de página y son útiles porque, además, ayudan a mantener más ordenado tu documento en texto plano. Las notas a pie se escriben con un par adicional de corchetes con el número de referencia para establecer el vínculo que identifique la etiqueta.
-
-Un ejemplo es el sitio *[The Programming Historian en español][1]*
-
-Entonces puedes incluir el URL en otra parte del documento:
-
-[1]: http://programminghistorian.org/
-
-Imágenes
-Se pueden referir las imágenes mediante el uso de !, seguido de un texto alternativo entre corchetes, seguido a su vez por el URL de la imagen y un título opcional entre comillas. Esto no se representará como texto en tu documento pero te permitirá incluir la imagen en la visualización de una página en HTML.
-
-![Logo de Wikipedia](https://upload.wikimedia.org/wikipedia/en/8/80/Wikipedia-logo-v2.svg "Wikipedia logo")
-
-Reglas y líneas horizontales
-Puedes incluir líneas horizontales si escribes en una misma línea cualquiera de los siguientes tres signos: -. * o _, sin importar los espacios que dejes entre ellos. Cualquiera de estas combinaciones generarán una línea horizontal:
-
-___
-* * *
-- - - - - -
-
-Tablas
-La versión básica de Markdown no incluye tablas; sin embargo, algunos sitios web y aplicaciones usan variantes de Markdown que pueden incluir tablas y otras características especiales. GitHub Flavored Markdown es una de estas variantes y es utilizado para visualizar archivos .md en el navegador del sitio de GitHub.
-
-Para crear una tabla en GitHub, usa barras verticales |para separar columnas y guiones entre los encabezados y el resto del contenido de la tabla. Dado que las barras verticales son sólo estrictamente necesarias entre columnas, puedes usarlas en los extremos de la tabla para darle una vista más acabada. Las celdas pueden tener contenido de cualquier extensión, y no es necesario que las barras verticales estén alineadas verticalmente entre sí.
-
-| Encabezado 1 | Encabezado 2 | Encabezado 3 |
+| De producción de bienes | De producción de servicios| De investigación |
 | --------- | --------- | --------- |
-| renglón 1, columna 1 | renglón 1, columna 2 | renglón 1, columna 3|
-| renglón 2, columna 1 | renglón 2, columna 2 | renglón 2, columna 3|
-| renglón 3, columna 1 | renglón 3, columna 2 | renglón 3, columna 3|
+| Primaria(extractica) | Infraesctructura física | investigación en ciencias |
+    *Agricólas            *Transportes
+    *Pecuarios            *Comunicaciones
+    *Mineros
+    *Pesqueros
+    *Forestales
+  Secundaria (transformación)
+    *Bienes de consumo final
+    *Bienes de intermedios
+    *Bienes de capital
 
-Para especificar la alineación del contenido de cada columna se pueden agregar dos puntos :al renglón de los encabezados como sigue:
+##Visita al enlace del proyecto:
 
-| Alineado-izquierda | Centrado | Alineado-derecha |
-| :-------- | :-------: | --------: |
-| Manzanas | rojo | 5000 |
-| Plátanos | amarillo | 75 |
+![logo de servicios sociales](https://serviciossociales.jcyl.es/web/jcyl/binarios/37/605/GSS-Carrusel-CataloSS.jpg)
