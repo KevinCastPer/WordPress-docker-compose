@@ -62,10 +62,6 @@ de las personas a las que va dirigido.
     * Pesqueros              * Urbanización             investigación aplicada
     * Forestales                                          * Recursos naturales
                                                           * Procesos  
-  Secundaria (transformación)                                  
-    * Bienes de consumo final
-    * Bienes de intermedios
-    * Bienes de capital
 
 ## Click para visita al enlace del proyecto
 
