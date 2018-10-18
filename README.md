@@ -10,15 +10,6 @@
   * Informe final
   * Reflexión crítica
 
-  Lista de compras
----------------
-* Frutas
-  * Manzanas
-  * Naranjas
-  * Uvas
-* Lácteos
-  * Leche
-  * Queso
 
 **Caso prácticos**
 
@@ -54,7 +45,7 @@ En todo proyecto es importante resaltar siempre:
   2. Elaborar las orientaciones y normas de actuación.
   3. Definir el papel que le corresponde a los diferentes sectores personales implicados.
 
-  ##El objetivo del proyectos
+  ## El objetivo del proyectos
 
   > El campo de aplicación es muy ámplio. Somos conscientes de que a través de la elaboración de buenos
 proyectos, podremos elevar la calidad y profesionalización de nuestro trabajo, y sobre todo, la calidad de vida
@@ -70,11 +61,12 @@ de las personas a las que va dirigido.
     * Mineros                * Irrigación                 * Sociales
     * Pesqueros              * Urbanización             investigación aplicada
     * Forestales                                          * Recursos naturales
-  Secundaria (transformación)                            * Procesos      
+                                                          * Procesos  
+  Secundaria (transformación)                                  
     * Bienes de consumo final
     * Bienes de intermedios
     * Bienes de capital
 
-## Visita al enlace del proyecto:
+## Click para visita al enlace del proyecto
 
 ![logo de servicios sociales](https://serviciossociales.jcyl.es/web/jcyl/binarios/37/605/GSS-Carrusel-CataloSS.jpg)
