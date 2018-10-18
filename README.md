@@ -1,17 +1,26 @@
-#ELABORACIÓN DE PROYECTOS SOCIALES
+# ELABORACIÓN DE PROYECTOS SOCIALES
 
-####Casos prácticos
+#### Casos prácticos
 
-*Introducción
-*Elementos para elaborar un proyecto
-  *Diagnóstico
-  *Planificación
-  *Aplicación/Ejecución
-  *Evaluación
-  *Informe final
-  *Reflexión crítica
+* Elementos para elaborar un proyecto
+  * Diagnóstico
+  * Planificación
+  * Aplicación/Ejecución
+  * Evaluación
+  * Informe final
+  * Reflexión crítica
 
-*Caso prácticos
+  Lista de compras
+---------------
+* Frutas
+  * Manzanas
+  * Naranjas
+  * Uvas
+* Lácteos
+  * Leche
+  * Queso
+
+**Caso prácticos**
 
 **Introducción**
 
@@ -34,10 +43,10 @@ que se va a hacer.
 
 En todo proyecto es importante resaltar siempre:  
 
-  *Una descripción de lo que se quiere conseguir, indicando con precisión la finalidad del mismo.
-  *Una adaptación del proyecto a las características del entorno y a las personas que lo van a llevar a cabo.
-  *Unos datos e informaciones técnicas para el mejor desarrollo del proyecto.
-  *Unos recursos mínimos imprescindibles para su aplicación y una temporalización precisa para el desarrollo del proyecto.  
+  * Una descripción de lo que se quiere conseguir, indicando con precisión la finalidad del mismo.
+  * Una adaptación del proyecto a las características del entorno y a las personas que lo van a llevar a cabo.
+  * Unos datos e informaciones técnicas para el mejor desarrollo del proyecto.
+  * Unos recursos mínimos imprescindibles para su aplicación y una temporalización precisa para el desarrollo del proyecto.  
 
   Lista de la Planificación pretende:
   ------------------
@@ -51,21 +60,21 @@ En todo proyecto es importante resaltar siempre:
 proyectos, podremos elevar la calidad y profesionalización de nuestro trabajo, y sobre todo, la calidad de vida
 de las personas a las que va dirigido.
 
-##Clasificación de los proyectos según el ILPS
+## Clasificación de los proyectos según el ILPS
 
 | De producción de bienes | De producción de servicios| De investigación |
 | --------- | --------- | --------- |
 | Primaria(extractica) | Infraesctructura física | investigación en ciencias |
-    *Agricólas            *Transportes
-    *Pecuarios            *Comunicaciones
-    *Mineros
-    *Pesqueros
-    *Forestales
-  Secundaria (transformación)
-    *Bienes de consumo final
-    *Bienes de intermedios
-    *Bienes de capital
+    * Agricólas              * Transportes                * Exactas
+    * Pecuarios              * Comunicaciones             * Naturales
+    * Mineros                * Irrigación                 * Sociales
+    * Pesqueros              * Urbanización             investigación aplicada
+    * Forestales                                          * Recursos naturales
+  Secundaria (transformación)                            * Procesos      
+    * Bienes de consumo final
+    * Bienes de intermedios
+    * Bienes de capital
 
-##Visita al enlace del proyecto:
+## Visita al enlace del proyecto:
 
 ![logo de servicios sociales](https://serviciossociales.jcyl.es/web/jcyl/binarios/37/605/GSS-Carrusel-CataloSS.jpg)
